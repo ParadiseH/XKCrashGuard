@@ -1,0 +1,22 @@
+{
+  "name": "XKCrashGuard",
+  "version": "0.1.0",
+  "summary": "A short description of XKCrashGuard.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/289722789@qq.com/XKCrashGuard",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "289722789@qq.com": "289722789@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/289722789@qq.com/XKCrashGuard.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XKCrashGuard/Classes/**/*"
+}

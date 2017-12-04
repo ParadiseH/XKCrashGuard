@@ -1,0 +1,6 @@
+framework module XKCrashGuard {
+  umbrella header "XKCrashGuard-umbrella.h"
+
+  export *
+  module * { export * }
+}

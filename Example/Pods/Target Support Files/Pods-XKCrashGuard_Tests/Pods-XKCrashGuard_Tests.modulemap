@@ -1,0 +1,6 @@
+framework module Pods_XKCrashGuard_Tests {
+  umbrella header "Pods-XKCrashGuard_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
