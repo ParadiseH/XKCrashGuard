@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XKCrashGuard_Example' do
+  pod 'XKCrashGuard', :path => '../'
+
+  target 'XKCrashGuard_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
